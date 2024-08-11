@@ -75,6 +75,11 @@ Para crear un branch
 ```
 git branch "name"
 ```
+
+Tambien se tiene que crear el branch en el repositorio
+```
+git push -u origin pangod
+```
 ## remotes
 
 ## stashing
