@@ -42,6 +42,11 @@ gh repo clone Metanoia56/Github-Examples
 ```
 Luego comit y push
 
+Para exportar un personal token:
+```
+export GH_TOKEN="Token"
+```
+
 ## Git hidden folder
 
 Si se quisiera inicializar Git manualmente, se podia hacer así
