@@ -125,3 +125,17 @@ Para hacer push a un repositorio a un remote origin osea agregar commits desde u
 ```
 git push
 ```
+
+## Tag
+Para agregar tags como v1 osea versiones y esas cosas macabras, se usa
+```
+git tag 1.0
+
+git push --tags
+
+git checkout 1.0
+
+git tag -d 1.0
+
+git push delete origin 1.0
+```
